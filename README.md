@@ -1,4 +1,4 @@
-Hi 👋 My name is Kadek Darmayasa
+Hi 👋 My name is Darmayasa
 ================================
 
 Frontend Web Developer
