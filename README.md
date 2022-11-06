@@ -1,7 +1,7 @@
 Hi 👋 My name is Darmayasa
 ================================
 
-Frontend Web Developer
+Front End Web Developer | Web Designer 
 ----------------------
 
 * 🌍  I'm based in Denpasar, Bali.
