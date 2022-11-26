@@ -1,7 +1,7 @@
 Hi 👋 I'm Darma
 ================================
 
-Front-End Web Developer | Web Designer 
+Specialist Front-End Web Developer
 ----------------------
 
 * 🌍  I'm based in Denpasar, Bali.
