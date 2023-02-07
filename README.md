@@ -34,7 +34,3 @@ Professional Front-End Web Developer
 <a href="http://www.github.com/kadekdarmayasa"><img src="https://github-readme-stats.vercel.app/api?username=kadekdarmayasa&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="kadekdarmayasa's GitHub stats" /></a>
 
 <a href="http://www.github.com/kadekdarmayasa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kadekdarmayasa&stroke=64748b&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/kadekdarmayasa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
