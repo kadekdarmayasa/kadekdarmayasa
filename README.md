@@ -6,8 +6,8 @@ Professional Front-End Web Developer
 
 * 🌍  I'm based in Denpasar, Bali.
 * ✉️  You can contact me at [darmayasadiputra@gmail.com](mailto:darmayasadiputra@gmail.com)
-* 🧠  I'm learning React & Vite
-* 🤝  I'm open to collaborating on Web Development particularly Frontend Developer
+* 🧠  I'm learning Frontend Frameworks and Testing Libraries 
+* 🤝  I'm open to collaborating on Web Development particularly Frontend
 
 ### Skills
 
