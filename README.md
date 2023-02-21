@@ -11,7 +11,7 @@ Experienced Frontend Developer
 
 <a href="https://www.github.com/kadekdarmayasa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kadekdarmayasa?logo=github&style=for-the-badge&color=10b981&labelColor=ffffff" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadekdarmayasa&label=Profile%20Views&color=0eb429&style=flat-square" alt="mezzky"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadekdarmayasa&label=PROFILE+VIEWS" alt="darmayasa"/> </p>
 ### Skills
 
 
