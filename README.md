@@ -11,7 +11,7 @@ Experienced Frontend Developer
 
 <a href="https://www.github.com/kadekdarmayasa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kadekdarmayasa?logo=github&style=for-the-badge&color=10b981&labelColor=ffffff" /></a>
-
+[![](https://visitcount.itsvg.in/api?id=kadekdarmayasa&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### Skills
 
