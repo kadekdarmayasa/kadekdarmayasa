@@ -6,7 +6,7 @@ Experienced Frontend Developer
 
 * 🌍  I'm based in Bali
 * ✉️  You can contact me at [darmayasadiputra@gmail.com](mailto:darmayasadiputra@gmail.com)
-* 🧠  I'm learning Frontend Frameworks and Libraries, UI/UX Design
+* 🧠  I'm currently learning React.Js (Next.Js)
 * 🤝  I'm open to collaborating on Web Based Application
 
 <a href="https://www.github.com/kadekdarmayasa" target="_blank" rel="noreferrer"><img
