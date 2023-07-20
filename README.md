@@ -1,7 +1,7 @@
-Hi 👋 My name is Darma Yasa
+Hei There! 👋 I'm Darma
 ===========================
 
-Experienced Frontend Developer
+Web Developer | HTML, CSS, JavaScript
 ------------------------------
 
 * 🌍  I'm based in Bali
