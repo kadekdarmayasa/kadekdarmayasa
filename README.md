@@ -1,7 +1,7 @@
 Hei There! 👋 I'm Darma
 ===========================
 
-Web Developer | HTML, CSS, JavaScript
+Web Developer | Tech Enthusiast 
 ------------------------------
 
 * 🌍  I'm based in Bali
