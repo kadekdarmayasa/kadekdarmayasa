@@ -6,7 +6,6 @@ Web Developer | Tech Enthusiast
 
 * 🌍  I'm based in Denpasar, Bali, Indonesia
 * ✉️  You can contact me at [darmayasadiputra@gmail.com](mailto:darmayasadiputra@gmail.com)
-* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Web Based Application
 
 <a href="https://www.github.com/kadekdarmayasa" target="_blank" rel="noreferrer"><img
