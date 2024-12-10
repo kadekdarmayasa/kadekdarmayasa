@@ -1,7 +1,7 @@
 Hi 👋 My name is Darmayasa
 ======================
 
-Fullstack Developer | Gym Enthusiast
+Fullstack Developer
 -------------------------------
 
 * 🌍  I'm based in Denpasar, Bali, Indonesia
