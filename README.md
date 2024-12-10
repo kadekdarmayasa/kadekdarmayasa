@@ -1,7 +1,7 @@
-Hi 👋 My name is Darma
+Hi 👋 My name is Darmayasa
 ======================
 
-Web Developer | Tech Enthusiast
+Fullstack Developer | Gym Enthusiast
 -------------------------------
 
 * 🌍  I'm based in Denpasar, Bali, Indonesia
