@@ -1,8 +1,5 @@
-Hi 👋 My name is Darmayasa
+Hi 👋 My name is Darmayasa - A Fullstack Developer
 ======================
-
-Fullstack Developer | Laravel | React.Js | Tailwind CSS
--------------------------------
 
 * 🌍  I'm based in Denpasar, Bali, Indonesia
 * ✉️  You can contact me at [darmayasadiputra@gmail.com](mailto:darmayasadiputra@gmail.com)
